@@ -4,7 +4,7 @@
 #
 Name     : custom_inherit
 Version  : 2.2.2
-Release  : 4
+Release  : 5
 URL      : https://github.com/rsokl/custom_inherit/archive/v2.2.2.tar.gz
 Source0  : https://github.com/rsokl/custom_inherit/archive/v2.2.2.tar.gz
 Summary  : A Python package that provides customized docstring inheritance       schemes between derived classes and their parents.
@@ -67,7 +67,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1597089498
+export SOURCE_DATE_EPOCH=1607980446
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
